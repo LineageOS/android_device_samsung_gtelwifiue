@@ -10,7 +10,7 @@ etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
 
 # Camera
-lib/hw/camera.msm8916.so:lib/hw/camera.vendor.msm8916.so
+lib/hw/camera.msm8916.so
 lib/libaec_algo_front.so
 lib/libaec_algo_rear.so
 lib/libaf_algo_rear.so
